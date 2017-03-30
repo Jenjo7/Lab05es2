@@ -48,7 +48,7 @@ public class MyService extends Service {
                 }
 
                 Intent intentBroadcast = new Intent();
-                intentBroadcast.setAction(MainActivity.E)
+                //intentBroadcast.setAction(MainActivity)
 
             }
         }).start();
